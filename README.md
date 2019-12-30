@@ -1,4 +1,4 @@
-# mi_card
+# # IIT Flutter Workshop ---- Portfolio App
 
 A new Flutter application.
 
